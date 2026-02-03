@@ -1,0 +1,15 @@
+# Build folders
+bin/
+obj/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.cache
+
+# Environment / settings
+appsettings.Development.json
+
+# Other files you don't want in Git
+*.log
